@@ -20,7 +20,8 @@ Um aplicativo simples de controle de ponto e produtividade com interface leve, f
 
 ## 🖼️ Captura de Tela
 
-> _(Adicione aqui um screenshot da interface flutuante)_
+![image](https://github.com/user-attachments/assets/6e07e145-36ee-4385-868f-c20832102740)
+
 
 ---
 
