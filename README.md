@@ -1,4 +1,4 @@
-# 🕒 Controle de Ponto em Python (CustomTkinter)
+# 🕒 Controle de Ponto em Python 
 
 Um aplicativo simples de controle de ponto e produtividade com interface leve, flutuante e funcional para registrar entradas, pausas, reuniões, feedbacks e horários de almoço. Ideal para ambientes corporativos ou equipes remotas.
 
